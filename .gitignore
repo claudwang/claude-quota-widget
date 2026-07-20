@@ -1,0 +1,3 @@
+# 运行时生成的本地状态，不入库
+widget-state.json
+*.tmp
