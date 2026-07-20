@@ -4,6 +4,8 @@
 
 > A tiny always-on-top Windows desktop widget showing your Claude Code rate-limit usage (5-hour window / weekly / per-model weekly) in real time. Pure PowerShell + WPF, zero dependencies.
 
+> 💡 **最省事的装法**：把本仓库链接直接发给你的 Claude Code，说一句"帮我装这个"——克隆、配置、引导登录它都会替你完成（只有浏览器里点授权那一步需要你本人动手）。
+
 ## 它长什么样
 
 ![悬浮窗截图](screenshot.png)
